@@ -5,9 +5,9 @@ body {
     max-width: 760px;
     background-color: whitesmoke;
 }
-h1{
+h1, footer{
     color: black;
-    background-color: rgb(63, 205, 193);
+    background-color: rgb(96, 226, 215);
     font-size: 30px;
     text-align: center;
 }
@@ -16,6 +16,5 @@ img {
     float: right;
     margin: 10px;
 }
-footer{
 
-}
+
