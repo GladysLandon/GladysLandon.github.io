@@ -5,14 +5,21 @@ body {
     max-width: 760px;
     background-color: whitesmoke;
 }
-h1{
+
+h1 {
     color: black;
     background-color: rgb(96, 226, 215);
     font-size: 30px;
     text-align: center;
 }
 
-footer{
+p {
+    font-size: 25px;
+    line-height: 0em;
+    border-style: outset;
+}
+
+footer {
     color: black;
     font-size: 25px;
     font-weight: bold;
@@ -20,10 +27,9 @@ footer{
     background-color: rgb(96, 226, 215);
     max-width: 760px;
 }
+
 img {
     width: 200px;
     float: right;
     margin: 10px;
 }
-
-
