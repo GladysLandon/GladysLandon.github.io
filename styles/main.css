@@ -13,10 +13,10 @@ h1 {
     text-align: center;
 }
 
-p {
+h2 {
     font-size: 25px;
     line-height: 0em;
-    border-bottom: thin;
+    text-decoration: underline;
 }
 
 ul {
