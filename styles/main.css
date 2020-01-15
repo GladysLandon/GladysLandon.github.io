@@ -14,9 +14,9 @@ h1 {
 }
 
 h2 {
-    font-size: 25px;
+    font-size: 20px;
     line-height: 0em;
-    text-decoration: underline;
+    text-underline-position: below;
 }
 
 ul {
@@ -24,10 +24,10 @@ ul {
 }
 
 footer {
+    text-align: center;
     color: black;
     font-size: 15px;
-    font-weight: bold;
-    text-align: center;
+    font-weight: inherit;
     background-color: rgb(96, 226, 215);
     max-width: 760px;
 }
