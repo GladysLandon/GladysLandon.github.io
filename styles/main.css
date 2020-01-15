@@ -14,7 +14,8 @@ h1{
 
 footer{
     color: black;
-    font-size: 10px;
+    font-size: 25px;
+    font-weight: bold;
     text-align: center;
     background-color: rgb(96, 226, 215);
     max-width: 760px;
