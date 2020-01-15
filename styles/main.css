@@ -16,12 +16,16 @@ h1 {
 p {
     font-size: 25px;
     line-height: 0em;
-    border-style: outset;
+    border-bottom: thin;
+}
+
+ul {
+    text-align: left;
 }
 
 footer {
     color: black;
-    font-size: 25px;
+    font-size: 15px;
     font-weight: bold;
     text-align: center;
     background-color: rgb(96, 226, 215);
