@@ -5,11 +5,19 @@ body {
     max-width: 760px;
     background-color: whitesmoke;
 }
-h1, footer{
+h1{
     color: black;
     background-color: rgb(96, 226, 215);
     font-size: 30px;
     text-align: center;
+}
+
+footer{
+    color: black;
+    font-size: 10px;
+    text-align: center;
+    background-color: rgb(96, 226, 215);
+    max-width: 760px;
 }
 img {
     width: 200px;
