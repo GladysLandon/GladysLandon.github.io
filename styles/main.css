@@ -22,13 +22,14 @@ h2 {
     text-align: left;
 
     font-size: 25px;
-    line-height: 0em;
+    line-height: 1.5em;
 
 
 }
 
 ul {
     text-align: left;
+    line-height: 1.5em;
 }
 
 footer {
