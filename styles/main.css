@@ -2,6 +2,7 @@ main {
     display: block;
     font-family: 'Roboto Mono', monospace;
     color: black;
+    line-height: 1.5em;
     text-align: center;
     max-width: 760px;
     background-color: white;
