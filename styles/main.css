@@ -11,7 +11,7 @@ main {
 h1 {
     font-family: 'Tangerine', cursive;
     color: black;
-    background-color: rgb(96, 226, 215);
+    background-color: rgb(116, 218, 158);
     font-size: 40px;
     font-weight: bold;
     line-height: 1.5em;
@@ -20,8 +20,8 @@ h1 {
 }
 
 h2 {
+    display: block;
     text-align: left;
-
     font-size: 25px;
     line-height: 1.5em;
 
@@ -37,7 +37,7 @@ footer {
     text-align: center;
     font-size: 15px;
     font-weight: inherit;
-    background-color: rgb(96, 226, 215);
+    background-color: rgb(116, 218, 158);
     max-width: 760px;
 }
 
