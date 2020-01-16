@@ -1,5 +1,5 @@
 main {
-    
+
     font-family: 'Roboto Mono', monospace;
     color: black;
     text-align: center;
@@ -7,11 +7,11 @@ main {
     background-color: white;
 }
 
-h1{
+h1 {
     font-family: 'Tangerine', cursive;
     color: black;
     background-color: rgb(96, 226, 215);
-    font-size: 30px;
+    font-size: 40px;
     font-weight: bold;
     text-align: center;
     max-width: 760px;
@@ -19,10 +19,10 @@ h1{
 
 h2 {
     text-align: left;
-    
+
     font-size: 25px;
     line-height: 0em;
-    
+
 
 }
 
@@ -31,7 +31,7 @@ ul {
 }
 
 footer {
-
+    text-align: center;
     font-size: 15px;
     font-weight: inherit;
     background-color: rgb(96, 226, 215);
