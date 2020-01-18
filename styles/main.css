@@ -7,6 +7,13 @@ main {
     max-width: 760px;
     background-color: rgb(116, 218, 179;
 }
+span.a {
+    display: inline; /* the default for span */
+    width: 760px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;  
+}
 
 h1 {
     font-family: 'Tangerine', cursive;
