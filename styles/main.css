@@ -7,12 +7,10 @@ main {
     max-width: 760px;
     background-color: rgb(116, 218, 179;
 }
-span.a {
-    display: inline; /* the default for span */
-    width: 760px;
-    height: 100px;
-    padding: 5px;
-    border: 1px solid blue;  
+img {
+    width: 200px;
+    float: right;
+    margin: 10px;
 }
 
 h1 {
@@ -36,6 +34,7 @@ h2 {
 
 
 ul {
+    display: block;
     text-align: left;
     line-height: 1.5em;
 }
@@ -46,10 +45,4 @@ footer {
     font-weight: inherit;
     background-color: rgb(116, 218, 179);
     max-width: 760px;
-}
-
-img {
-    width: 200px;
-    float: right;
-    margin: 10px;
 }
