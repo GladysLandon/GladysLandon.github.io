@@ -1,5 +1,5 @@
 body{
-    display: block;
+    /*display: block;*/
     /*font-family: 'Open Sans', sans-serif;*/
     color: black;
     line-height: 1.5em;
@@ -29,12 +29,12 @@ h2 {
     text-align: left;
     font-size: 25px;
     line-height: 1.5em;
-    margin-bottom: 0em;
+    /*margin-bottom: 0em;*/
 }
 
 
 ul {
-    display: block;
+    /*display: block;*/
     text-align: left;
     line-height: 1.5em;
 }
