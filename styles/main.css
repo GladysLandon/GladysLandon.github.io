@@ -1,6 +1,6 @@
 main {
     display: block;
-    font-family: 'Open Sans', sans-serif;
+    /*font-family: 'Open Sans', sans-serif;*/
     color: black;
     line-height: 1.5em;
     text-align: center;
@@ -14,7 +14,7 @@ img {
 }
 
 h1 {
-    font-family: 'Tangerine', cursive;
+    /*font-family: 'Tangerine', cursive;*/
     color: black;
     background-color:  rgb(116, 218, 179);
     font-size: 50px;
