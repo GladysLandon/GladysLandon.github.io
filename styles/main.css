@@ -15,9 +15,9 @@ img {
 
 h1 {
     font-family: 'Tangerine', cursive;
-    color: black;
+    color: yellow;
     background-color:  rgb(116, 218, 179);
-    font-size: 70px;
+    font-size: 70px;/*changing this from 50 to 70 made no difference*/
     font-weight: bold;
     line-height: 1.5em;
     text-align: center;
