@@ -46,3 +46,6 @@ footer {
     background-color: rgb(116, 218, 179);
     max-width: 760px;
 }
+media {
+    min-width: 32.5em
+}
