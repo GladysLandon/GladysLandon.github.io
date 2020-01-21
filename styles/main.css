@@ -15,7 +15,7 @@ img {
 
 h1 {
     font-family: 'Tangerine', cursive;
-    color: orangered;/*changing to yellow also increased the font-size*/
+    color: white;/*changing to yellow also increased the font-size*/
     background-color:  rgb(116, 218, 179);
     font-size: 70px;/*changing this from 50 to 70 made no difference*/
     /*font-weight: bold;*/
