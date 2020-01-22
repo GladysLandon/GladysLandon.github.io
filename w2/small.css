@@ -13,11 +13,14 @@
     }
 }
     h2{
-        display: grid;
         text-align: left;
         font-size: 25px;
         line-height: 1.5em;
         
     }
 
+    main{
+        display: grid;
+        grid-template-columns: 1fr;
+        font-size: 0.8;
     }
