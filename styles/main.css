@@ -11,6 +11,7 @@ img {
     width: 200px;
     float: right;
     margin: 10px;
+    box-shadow: 2px gray;
 }
 header{
     background-color:  rgb(116, 218, 179);
