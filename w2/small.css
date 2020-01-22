@@ -24,3 +24,6 @@
         grid-template-columns: 1fr;
         font-size: 0.8;
     }
+    p{
+        font-size: 1em;
+    }
