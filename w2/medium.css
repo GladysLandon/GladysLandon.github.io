@@ -1,7 +1,11 @@
+header{
+    background-color:  rgb(116, 218, 179);
+}
+
 h1 {
     font-family: 'Tangerine', cursive;
     color: white;
-    background-color:  rgb(116, 218, 179);
+    /*background-color:  rgb(116, 218, 179);*/
     font-size: 70px;
     text-shadow: 3px 2px gray;
     line-height: 1.5em;
