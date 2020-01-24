@@ -30,19 +30,7 @@
 
     <footer>
         &copy; 2020 | Gladys Landon | California | <a href="https://www.byui.edu/online">BYUI Online Learning</a>
-        <!--https://www.byui.edu/online-->
         <br>
-        var
-        nLastVisit = parseFloat(document.cookie.replace(/(?:(?:^|.*;)\s*last_modif\s*\=\s*([^;]*).*$)|^.*$/, "$1")),
-        nLastModif = Date.parse(document.lastModified);
-      
-      if (isNaN(nLastVisit) || nLastModif > nLastVisit) {
-        document.cookie = "last_modif=" + Date.now() + "; expires=Fri, 31 Dec 9999 23:59:59 GMT; path=" + location.pathname;
-      
-        if (isFinite(nLastVisit)) {
-          alert("This page has been changed!");
-        }
-      }
         <span id="lastModifiedDate"></span>
         <script src="scripts/lastmodified.js"></script>
     </footer>
