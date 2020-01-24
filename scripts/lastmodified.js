@@ -1,5 +1,5 @@
 document.getElementById("lastModifiedDate").textContent = document.lastModified;
-var
+/*var
   nLastVisit = parseFloat(document.cookie.replace(/(?:(?:^|.*;)\s*last_modif\s*\=\s*([^;]*).*$)|^.*$/, "$1")),
   nLastModif = Date.parse(document.lastModified);
 
@@ -8,5 +8,4 @@ if (isNaN(nLastVisit) || nLastModif > nLastVisit) {
 
   if (isFinite(nLastVisit)) {
     alert("This page has been changed!");
-  }
-}
+  }*/
