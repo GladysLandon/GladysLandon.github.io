@@ -1,4 +1,4 @@
-@media only screen and (min-width: 37.5){
+@media only screen and (min-width: 100%){
     h1{
             font-family: 'Tangerine', cursive;
             color: white;
@@ -16,14 +16,11 @@
         line-height: 1.5em;
         
     }
-    h3{
+    h4{
         background-color:rgb(116, 218, 179);
         text-align: center;
         font-size: 15px;
 
-    }
-    img{
-        box-shadow: 0 2px 15px gray;
     }
 
     main{
