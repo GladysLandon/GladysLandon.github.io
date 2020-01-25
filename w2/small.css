@@ -27,6 +27,7 @@
         display: grid;
         grid-template-columns: repeat(3)1fr;
         font-size: 0.8;
+        padding: .05em;
     }
     p{
         font-size: 1em;
