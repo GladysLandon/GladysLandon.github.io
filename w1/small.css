@@ -16,6 +16,9 @@
         line-height: 1.5em;
 
     }
+    img {
+        align-self: auto;
+    }
 
     h4 {
         background-color: rgb(116, 218, 179);
